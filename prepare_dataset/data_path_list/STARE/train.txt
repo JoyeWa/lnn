@@ -1,0 +1,15 @@
+datasets\STARE/images\im0044.ppm datasets\STARE/1st_labels_ah\im0044.ah.ppm datasets\STARE/mask\mask_0044.png
+datasets\STARE/images\im0077.ppm datasets\STARE/1st_labels_ah\im0077.ah.ppm datasets\STARE/mask\mask_0077.png
+datasets\STARE/images\im0081.ppm datasets\STARE/1st_labels_ah\im0081.ah.ppm datasets\STARE/mask\mask_0081.png
+datasets\STARE/images\im0082.ppm datasets\STARE/1st_labels_ah\im0082.ah.ppm datasets\STARE/mask\mask_0082.png
+datasets\STARE/images\im0139.ppm datasets\STARE/1st_labels_ah\im0139.ah.ppm datasets\STARE/mask\mask_0139.png
+datasets\STARE/images\im0162.ppm datasets\STARE/1st_labels_ah\im0162.ah.ppm datasets\STARE/mask\mask_0162.png
+datasets\STARE/images\im0163.ppm datasets\STARE/1st_labels_ah\im0163.ah.ppm datasets\STARE/mask\mask_0163.png
+datasets\STARE/images\im0235.ppm datasets\STARE/1st_labels_ah\im0235.ah.ppm datasets\STARE/mask\mask_0235.png
+datasets\STARE/images\im0236.ppm datasets\STARE/1st_labels_ah\im0236.ah.ppm datasets\STARE/mask\mask_0236.png
+datasets\STARE/images\im0239.ppm datasets\STARE/1st_labels_ah\im0239.ah.ppm datasets\STARE/mask\mask_0239.png
+datasets\STARE/images\im0240.ppm datasets\STARE/1st_labels_ah\im0240.ah.ppm datasets\STARE/mask\mask_0240.png
+datasets\STARE/images\im0255.ppm datasets\STARE/1st_labels_ah\im0255.ah.ppm datasets\STARE/mask\mask_0255.png
+datasets\STARE/images\im0291.ppm datasets\STARE/1st_labels_ah\im0291.ah.ppm datasets\STARE/mask\mask_0291.png
+datasets\STARE/images\im0319.ppm datasets\STARE/1st_labels_ah\im0319.ah.ppm datasets\STARE/mask\mask_0319.png
+datasets\STARE/images\im0324.ppm datasets\STARE/1st_labels_ah\im0324.ah.ppm datasets\STARE/mask\mask_0324.png

@@ -1,0 +1,7 @@
+datasets\CHASEDB1/images\Image_01L.jpg datasets\CHASEDB1/1st_label\Image_01L_1stHO.png datasets\CHASEDB1/mask\Image_01L.png
+datasets\CHASEDB1/images\Image_01R.jpg datasets\CHASEDB1/1st_label\Image_01R_1stHO.png datasets\CHASEDB1/mask\Image_01R.png
+datasets\CHASEDB1/images\Image_02L.jpg datasets\CHASEDB1/1st_label\Image_02L_1stHO.png datasets\CHASEDB1/mask\Image_02L.png
+datasets\CHASEDB1/images\Image_02R.jpg datasets\CHASEDB1/1st_label\Image_02R_1stHO.png datasets\CHASEDB1/mask\Image_02R.png
+datasets\CHASEDB1/images\Image_03L.jpg datasets\CHASEDB1/1st_label\Image_03L_1stHO.png datasets\CHASEDB1/mask\Image_03L.png
+datasets\CHASEDB1/images\Image_03R.jpg datasets\CHASEDB1/1st_label\Image_03R_1stHO.png datasets\CHASEDB1/mask\Image_03R.png
+datasets\CHASEDB1/images\Image_04L.jpg datasets\CHASEDB1/1st_label\Image_04L_1stHO.png datasets\CHASEDB1/mask\Image_04L.png
